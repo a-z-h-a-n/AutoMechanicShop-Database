@@ -14,11 +14,11 @@ A Microsoft Access-based relational database system designed for *AutoTrack*, an
 
 | Folder          | Contents                                         |
 |-----------------|--------------------------------------------------|
-| `documentation/`| Project report PDF, ER diagram                   |
-| `forms/`        | MS Access data entry forms                       |
-| `reports/`      | MS Access Reports including                      |
-| `queries/`      | SQL query screenshots                            |
-| `vba/`          | VBA formatting code                              |
+| `documentation/`| Project Report PDF, ER Diagram                   |
+| `forms/`        | MS Access Data Entry Forms                       |
+| `reports/`      | MS Access Reports                                |
+| `queries/`      | SQL Query Screenshots                            |
+| `vba/`          | VBA Formatting Code                              |
 
 ---
 
